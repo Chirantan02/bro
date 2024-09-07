@@ -1,0 +1,70 @@
+{
+  "node": {
+    "300c4ece2c791f2a2594e82710942f24a6e48e6c": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22enrichLineItems%22%2C%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc"
+      }
+    },
+    "a8a1e4ba8eb3b1335e8597295c011be21cacc5dc": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22enrichLineItems%22%2C%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc"
+      }
+    },
+    "df4a03a1439a1ff30b9f84ad587c9a79c5d41156": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22enrichLineItems%22%2C%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc"
+      }
+    },
+    "e55cd6c9b2fca3138291a85e385a3a1b974742fa": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22enrichLineItems%22%2C%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc"
+      }
+    },
+    "ecb9c9a0e591a3b57377f05325ff3efb9419e880": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22enrichLineItems%22%2C%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc"
+      }
+    },
+    "f2ced4791a0e25ace777ee451885cc0e452e7591": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Cmodules%5C%5Ccart%5C%5Cactions.ts%22%2C%5B%22enrichLineItems%22%2C%22addToCart%22%2C%22getOrSetCart%22%2C%22updateLineItem%22%2C%22deleteLineItem%22%2C%22retrieveCart%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "rsc"
+      }
+    },
+    "1318e99516958c60498f439d4a261f87720b5abc": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "action-browser"
+      }
+    },
+    "d828845101f61d17f9ce4a04c8e882a6b1da87c9": {
+      "workers": {
+        "app/[countryCode]/(main)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cchira%5C%5CDesktop%5C%5CStartup%5C%5Chope-medusa%5C%5Cgenvin-storefront%5C%5Csrc%5C%5Capp%5C%5Cactions.ts%22%2C%5B%22updateRegion%22%2C%22resetOnboardingState%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/[countryCode]/(main)/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "d54F5fWnfZ93FuwnYWEyGog1llusoNcr61ENoWwj0rE="
+}
